@@ -1,5 +1,5 @@
-import funcJson
-import calculos
+from modules import funcJson
+from modules import calculos
 
 alunos = funcJson.ler_json()
 

@@ -1,6 +1,6 @@
 # Thiago
 
-import funcJson
+from modules import funcJson
 
 def cadastrar_usuario():
     dados_brutos = funcJson.ler_json()

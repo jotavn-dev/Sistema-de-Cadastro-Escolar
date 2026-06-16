@@ -1,4 +1,4 @@
-from funcJson import ler_json
+from modules.funcJson import ler_json
 
 def calcular_mensalidade(nome):
     alunos = ler_json()

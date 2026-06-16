@@ -1,2 +1,2 @@
-from telainicial import tela_inicial
+from modules.telainicial import tela_inicial
 tela_inicial()
